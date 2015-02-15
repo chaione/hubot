@@ -20,7 +20,8 @@
     "hubot-shipit": "^0.1.1",
     "hubot-youtube": "^0.1.2",
     "cheerio": ">= 0.13.1",
-    "soupselect": "0.2.0"
+    "soupselect": "0.2.0",
+    "htmlparser": "1.7.6"
   },
   "engines": {
     "node": "0.10.x"
